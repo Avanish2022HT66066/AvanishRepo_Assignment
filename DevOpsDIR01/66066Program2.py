@@ -15,3 +15,12 @@ sol1 = (-b-cmath.sqrt(d))/(2*a)
 sol2 = (-b+cmath.sqrt(d))/(2*a)
 
 print('The solution are {0} and {1}'.format(sol1,sol2))
+
+
+#Modified Changes to find difference in code
+Reslt= Sol1-Sol2
+Print('Print the difference')
+
+#Addition Modification to code to find difference 
+print('Welcome to BITS Pilani - DevOps Assignment - Avanish')
+
